@@ -34,5 +34,3 @@ class test_pythonframework():
         time.sleep(10)
 
 
-# obj=test_pythonframework()
-# obj.test_perform()
